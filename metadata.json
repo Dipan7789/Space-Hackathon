@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous Constellation Manager",
+  "description": "Full-stack satellite collision avoidance system with RK4 propagation, J2 perturbation, and real-time WebGL visualization.",
+  "requestFramePermissions": []
+}
